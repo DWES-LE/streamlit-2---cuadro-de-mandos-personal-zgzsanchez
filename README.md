@@ -29,4 +29,4 @@ Prepara visualizaciones diferentes del dataframe en texto (tablas) o gráficas (
 Prepara y prueba la aplicación.
 
 ## Publica la aplicación.
-https://zgzsanchez-cuadro-mandos-nba-app-7phpht.streamlit.app/
+https://zgzsanchez-streamlit-2---cuadro-de-mandos-personal-z-app-t76dn7.streamlit.app/
